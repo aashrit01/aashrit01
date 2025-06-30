@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aashrit01/aashrit01/raw/main/.banner/banner.jpg" alt="Aashrit Surapaneni Banner" width="100%">
+  <img src=".banner/banner.png">
 </p>
 
 # 👋 Hi, I'm Aashrit Surapaneni
