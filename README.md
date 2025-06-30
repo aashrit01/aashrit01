@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/aashrit01/aashrit01/raw/main/banner.png" alt="Aashrit Surapaneni Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Aashrit Surapaneni
 
 I'm a Machine Learning Engineer experienced in designing, building, and deploying AI solutions across healthcare, finance, and enterprise platforms. My work bridges classical ML and modern GenAI systems, with a strong focus on scalable pipelines, MLOps, and production-grade applications.
